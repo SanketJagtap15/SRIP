@@ -1,6 +1,7 @@
 # SRIP
  
-# Name: Sanket Jagtap <br>
+# Name: Sanket Jagtap 
+
 ## College: IIT Kharagpur
 
 ## Introduction
@@ -23,4 +24,3 @@ The dataset underwent analysis utilizing three distinct architectures: CustomNN 
 To gauge the effectiveness of each classification model, we employ classification matrices. These matrices provide a comprehensive overview of the model's performance by presenting key metrics such as accuracy, and precision, recall, and F1-score can be calculated by using the printed confusion matrix for each class. By analyzing these metrics, we can identify the strengths and weaknesses of each classification approach, enabling informed decision-making regarding model selection and refinement.
 
 -------------------------------------------
-# Libraries
