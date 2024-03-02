@@ -1,7 +1,7 @@
 # SRIP
  
-Name: Sanket Jagtap
-College: IIT Kharagpur
+# Name: Sanket Jagtap <br>
+# College: IIT Kharagpur
 
 ## Introduction
 
